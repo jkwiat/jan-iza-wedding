@@ -2,8 +2,8 @@ title: Wesele Jan i Izabeli
 email: wesele2k24@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Nasze wesele bo Izabelka jest super
-baseurl: "jan-iza-wedding" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+# baseurl: "jan-iza-wedding" # the subpath of your site, e.g. /blog
+# url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
