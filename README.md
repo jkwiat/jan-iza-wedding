@@ -1,4 +1,4 @@
-# Web page of my darlin Izabel 
+# Wedding web page 
 
 To run:
 ```bash 
