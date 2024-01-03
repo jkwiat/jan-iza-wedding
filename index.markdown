@@ -1,6 +1,23 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: landing
 ---
+
+<section id="banner">
+  <div class="inner">
+    <h2>{{ site.title }}</h2>
+    <p>{{ site.description | markdownify }}</p>
+  </div>
+  <a href="#intro" class="more scrolly">Szczegóły</a>
+</section>
+
+<section id="details" class="wrapper style1 special">
+  {% include sections/details.html %}
+
+
+<section id="couple" class="wrapper alt style2">
+{% include sections/couple.html %}
+</section>
+
+<section id="dworafrodyta" class="wrapper alt style2">
+{% include sections/dworafrodyta.html %}
+</section>

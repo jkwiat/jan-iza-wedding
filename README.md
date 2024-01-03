@@ -4,7 +4,7 @@ To run:
 ```bash 
 bundle exec jekyll serve
 ```
-
+https://github.com/vittoriom/wedding-site <br>
 Based on: <br>
 https://www.youtube.com/watch?v=T1itpPvFWHI&t=24s <br>
 https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll <br>
