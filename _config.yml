@@ -1,9 +1,9 @@
 title: "Jan & Izabela" 
 email: wesele2k24@example.com
-description: >- # this means to ignore newlines until "baseurl:"
+description: | 
   Grodzisk Mazowiecki,
-  
-  Czerwiec 22, 2024
+  Czerwiec 22, 2024,
+  Więcej informacji już wkrótce!
 owner: Jan K
 first_published: 2024
 # baseurl: "jan-iza-wedding" # the subpath of your site, e.g. /blog

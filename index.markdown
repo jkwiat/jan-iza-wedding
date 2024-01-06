@@ -12,7 +12,7 @@ layout: landing
 
 <section id="details" class="wrapper style1 special">
   {% include sections/details.html %}
-
+</section>
 
 <section id="couple" class="wrapper alt style2">
 {% include sections/couple.html %}
