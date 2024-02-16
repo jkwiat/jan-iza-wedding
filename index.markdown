@@ -29,6 +29,20 @@ layout: landing
     font-weight: 500;
     font-style: normal;
   }
+
+  #details {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
+  #dworafrodyta {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
 </style>
 
 <section id="banner">
