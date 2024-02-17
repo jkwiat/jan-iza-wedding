@@ -37,6 +37,13 @@ layout: landing
     font-style: normal;
   }
 
+  #couple {
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    font-weight: 500;
+    font-style: normal;
+  }
+
   #dworafrodyta {
     font-family: "EB Garamond", serif;
     font-optical-sizing: auto;
@@ -57,10 +64,10 @@ layout: landing
   {% include sections/details.html %}
 </section>
 
-<section id="couple" class="wrapper alt style2">
+<section id="couple" class="wrapper style1 special">
 {% include sections/couple.html %}
 </section>
 
-<section id="dworafrodyta" class="wrapper alt style2">
+<section id="dworafrodyta" class="wrapper style1 special">
 {% include sections/dworafrodyta.html %}
 </section>
